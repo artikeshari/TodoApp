@@ -3,9 +3,7 @@ package com.example.arti.todoapp;
 import android.net.Uri;
 import android.provider.BaseColumns;
 
-/**
- * Created by bandriya on 18-Feb-18.
- */
+
 public class TodoContract {
 
     public static final String CONTENT_AUTHORITY = "com.example.android.todos";
